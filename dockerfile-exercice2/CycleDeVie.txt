@@ -1,0 +1,9 @@
+docker compose up -d --build   # construire et démarrer
+docker compose ps              # état des services
+docker compose logs -f         # suivre les logs (Ctrl+C pour quitter)
+docker compose stop            # arrêter sans supprimer
+docker compose start           # redémarrer
+docker compose restart         # arrêter puis redémarrer
+docker compose build           # reconstruire l'image seule
+docker compose down            # supprimer conteneur et réseau
+docker compose down --rmi local   # idem, et supprimer l'image construite
