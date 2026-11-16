@@ -1,0 +1,5 @@
+PID   USER     TIME  COMMAND
+    1 root      0:00 npm run dev --host
+   18 root      0:01 node /app/node_modules/.bin/vite --host
+   29 root      0:00 /app/node_modules/@esbuild/linux-arm64/bin/esbuild --service=0.18.20 --ping
+   85 root      0:00 ps aux

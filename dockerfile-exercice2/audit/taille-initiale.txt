@@ -1,0 +1,2 @@
+IMAGE                 ID             DISK USAGE   CONTENT SIZE   EXTRA
+quiz-docker:initial   648ee35173ac        235MB         60.7MB   U    

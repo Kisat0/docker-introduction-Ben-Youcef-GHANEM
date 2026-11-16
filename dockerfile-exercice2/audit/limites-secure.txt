@@ -1,0 +1,1 @@
+mem=268435456 cpu=500000000 pids=100 ro=true capdrop=[ALL] secopt=[no-new-privileges:true] privileged=false
